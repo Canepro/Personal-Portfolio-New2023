@@ -1,12 +1,18 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "I'm a DevOps Engineer / Technical Support Analyst with over 5 years of experience in designing, implementing and maintaining software solutions using various tools, open-source technologies and cloud services. I have a strong background in Linux based infrastructure, Ruby, Python, Perl and Java.",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "DevOps",
+    "Linux",
+    "HTML",
+    "Python",
+    "CSS",
+    "JavaScript",
+    "MySQL",
+    "Mongo",
+    "Troubleshooting",
+    "Automation",
+    "Cloud services (AZURE & AWS)",
+    "Security and compliance"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "I am passionate about optimizing the software development cycle, increasing the frequency and quality of updates, and enabling continuous delivery of value in organizations. By leveraging my DevOps engineering skills, I collaborate with different teams to create and maintain reliable, secure and scalable software solutions."
 }
